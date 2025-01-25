@@ -26,7 +26,7 @@ Ensure the following software is installed on your system:
 1. Clone this repository or download the script:
 
    ```bash
-   git clone https://github.com/your-username/divar-exporter.git
+   git clone https://github.com/dev-503/divar-exporter.git
    cd divar-exporter
    ```
 
